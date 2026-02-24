@@ -1,7 +1,7 @@
 # 📊 Sales Forecasting Application using XGBoost
 
 ## 📌 Introduction
-This is my first GitHub project, focused on building a **machine learning–based sales forecasting system** using the **XGBoost regression model** and deploying it through an interactive **Streamlit web application**.
+This project focused on building a **machine learning–based sales forecasting system** using the **XGBoost regression model** and deploying it through an interactive **Streamlit web application**.
 
 The project demonstrates how data science can be applied to solve real-world retail problems such as **sales prediction, demand planning, and business decision-making**.
 
