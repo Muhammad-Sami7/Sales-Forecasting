@@ -158,9 +158,9 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```
-rossmann-sales-forecasting/
+Sales-Forecasting/
 │
-├── app.py                          # Streamlit application
+├── sales_app.py                          # Streamlit application
 ├── Sales_Forecasting_XGBoost.ipynb # Full ML pipeline notebook
 ├── rossmann_model.pkl              # Trained XGBoost model
 ├── requirements.txt
